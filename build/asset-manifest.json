@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.786df46b.css",
+    "main.js": "/static/js/main.7f44011d.js",
+    "static/js/787.9a66ef06.chunk.js": "/static/js/787.9a66ef06.chunk.js",
+    "static/media/mac_lern.jpg": "/static/media/mac_lern.4e4c6f79ec81f01b5daf.jpg",
+    "index.html": "/index.html",
+    "main.786df46b.css.map": "/static/css/main.786df46b.css.map",
+    "main.7f44011d.js.map": "/static/js/main.7f44011d.js.map",
+    "787.9a66ef06.chunk.js.map": "/static/js/787.9a66ef06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.786df46b.css",
+    "static/js/main.7f44011d.js"
+  ]
+}
